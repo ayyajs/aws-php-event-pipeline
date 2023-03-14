@@ -1,5 +1,5 @@
-version: 20.04
-os: ubuntu
+version: 0.0
+os: linux
 files:
   - source: /
     destination: /var/www/html
